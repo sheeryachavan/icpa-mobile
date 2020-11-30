@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168863515528",
+    "firebase_url": "https://icpa-b73df.firebaseio.com",
+    "project_id": "icpa-b73df",
+    "storage_bucket": "icpa-b73df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168863515528:android:82b5fd7a8828f2bc69b03d",
+        "android_client_info": {
+          "package_name": "com.icpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168863515528-sur8rrhjljkhu4uh9t5587di4n1fumn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbCS8c2PU-iLeEsstXLevPQXBVmnZs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168863515528-sur8rrhjljkhu4uh9t5587di4n1fumn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
